@@ -1,0 +1,7 @@
+# The virtual enviorment files
+
+.venv/
+venv/
+
+#Cache Files stored by VS Code.
+.vscode/
