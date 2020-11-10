@@ -10,7 +10,7 @@ Image used <a href="SampleImages/Fujifilm_FinePix_E500.jpg"> Fujifilm_FinePix_E5
 
 # Screenshots
 
-<img src="docs/MainScreen.png">
+<img src="docs/MainScreen.PNG">
 
 # Installation
 
