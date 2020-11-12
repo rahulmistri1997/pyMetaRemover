@@ -22,3 +22,7 @@ On CMD Navigate to `venv/scripts/` and run `activate` command
 You'll see a '(venv)' on you command prompt right before the directory. That's a indication that you have entered into **virtualenv**.
 
 Then run `pip install -r requirements.txt` to install all the requirements for this project in your virtualenv.
+
+# Verification of MetaData Removal
+
+To verify if the metadata have been succesfully removed use <a href="https://exifinfo.org/"> `exifinfo.org` </a>
