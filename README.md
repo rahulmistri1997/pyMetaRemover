@@ -12,6 +12,10 @@ Image used <a href="SampleImages/Fujifilm_FinePix_E500.jpg"> Fujifilm_FinePix_E5
 
 <img src="docs/MainScreen.PNG">
 
+# Windows Portable executable
+
+<a href="https://github.com/rahulmistri1997/pyMetaRemover/releases/download/v1.0/pymetacleaner-Windows.exe"> pyMetaRemover.exe </a>
+
 # Installation
 
 A setup venv.bat is in the folder which will help to easily setup and upgrade **pip** and **virtualenv**
